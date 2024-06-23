@@ -1,4 +1,4 @@
-gunicorn==22.0.0
-argostranslate==1.9.6
-Flask==3.0.3
-Flask-Cors==4.0.1
+fastapi
+uvicorn
+argostranslate
+pydantic
